@@ -1,0 +1,1 @@
+C:\Users\Asus\Desktop\multithreading\Rust\minigrep\target\debug\minigrep.exe: C:\Users\Asus\Desktop\multithreading\Rust\minigrep\src\lib.rs C:\Users\Asus\Desktop\multithreading\Rust\minigrep\src\main.rs
